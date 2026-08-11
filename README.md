@@ -1,37 +1,52 @@
-# 👋 Hi, I'm Ismail Alatar  
-
-🎓 **Data Science Student**  
-💻 Currently learning **C, C++, and Python**  
-📊 Interested in **Data Analysis, Artificial Intelligence, and Automation**
+# 👨‍💻 Ismail Ibrahim Alatar
+`Data & Systems Engineer | Big Data Architecture, Systems & Full-Stack Pipelines`
 
 ---
 
-## 🧠 What I’m Learning
-- Foundations of programming using **C and C++**
-- Problem-solving and algorithms  
-- Data handling and scripting in **Python**
-- Basics of web technologies (**HTML & CSS**, coming soon)
+### 🏛️ Engineering & Architecture
+- ⚡ **Big Data & Data Engineering:** Designing high-throughput data pipelines, database normalization, and complex schema architectures.
+- 🐳 **Systems & Containerization:** Multi-container orchestration using **Docker Compose**, leveraging Linux kernel namespaces & cgroups for scalable infrastructure.
+- 💻 **Software & Systems Development:** Core system logic in **C++** & **Java**, statistical modeling in **R**, and end-to-end web applications.
 
 ---
 
-## 🚀 Goals
-- Build practical projects in Python and C++  
-- Learn R for statistical analysis  
-- Develop skills in Machine Learning and Data Visualization  
-- Contribute to open-source projects  
+## 🛠️ Tech Stack & Infrastructure
+
+┌─────────────────┬─────────────────────────────────────────────────────────┐
+│ Domain          │ Technologies & Frameworks                               │
+├─────────────────┼─────────────────────────────────────────────────────────┤
+│ Core Languages  │ C++ • Java • Python • R • C • SQL                       │
+│ Data & Storage  │ PostgreSQL • Apache Hive • Distributed Databases        │
+│ DevOps & Linux  │ Docker • Docker Compose • Bash/Shell • System Security  │
+│ Web & Backend   │ React • Vite • TypeScript • RESTful APIs                │
+└─────────────────┴─────────────────────────────────────────────────────────┘
+┌─────────────────┬────────────────────────────────────────────────────────
 
 ---
 
-## 🛠️ Tools I Use
-- Visual Studio Code / Visual Studio 2022  
-- Git & GitHub  
-- Jupyter Notebook (planned)  
+## 🔬 Core Focus Areas
+
+* **Data Pipelines & Storage:** Architecting robust metadata registries, query optimization, and streaming pipelines.
+* **System-Level Logic:** Building performant C++ and Java modules for backend engines and low-level system operations.
+* **Full-Stack Data Systems:** Connecting complex backend analytical engines with modern, responsive React/TypeScript interfaces.
 
 ---
 
-## 📫 Contact
-📧 **Email:** ismailalatar774@gmail.com  
+## 📊 System Statistics & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true" alt="Ismail's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
+</p>
 
 ---
 
-> *“Learning to code is learning to think.” – Steve Jobs *
+## 📫 Connect & Contact
+
+- **Email:** [ismailalatar774@gmail.com](mailto:ismailalatar774@gmail.com)
+- **LinkedIn:** [Ismail Alatar](https://linkedin.com/in/YOUR_LINKEDIN_PROFILE)
+- **Portfolio / Stack:** `Coming Soon`
+
+---
+
+> *"Build clean architectures, optimize for scale, and solve complex system challenges."*
