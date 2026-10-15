@@ -1,42 +1,51 @@
-# 👨‍💻 Ismail Ibrahim Alatar
-`Data & Systems Engineer | Big Data Architecture, Distributed Systems & Backend Engineering`
+# Hi, I'm Ismail 👋
+
+**Data Cleaning & Analysis | Python (pandas) · SQL · Excel**
+
+Second-year data science student. I turn messy spreadsheets and CSV files into clean, analysis-ready data, and I build small data tools with Python.
 
 ---
 
-### 🏛️ Engineering & Core Focus
-- ⚡ **Big Data & Pipelines:** Architecting high-throughput streaming pipelines, query optimization, robust metadata registries, and database normalization.
-- 🐳 **Infrastructure & DevOps:** Multi-container orchestration via **Docker Compose**, leveraging Linux kernel namespaces & cgroups for isolated and scalable workloads.
-- 💻 **Systems & Low-Level Logic:** Developing high-performance modules and core logic in **C++** and **Java**, statistical analysis in **R**, and scalable backend services.
-- 🌐 **Full-Stack Data Systems:** Bridging complex analytical backend engines with responsive **React** and **TypeScript** interfaces.
+## What I can help with
+
+- **Data cleaning:** duplicates, missing values, inconsistent names and dates, mixed formats
+- **Data analysis:** summaries, charts and clear conclusions from your data
+- **Python scripts:** reusable tools that clean a file in one command
+- **SQL queries:** pulling and reshaping data from relational databases
 
 ---
 
-## 🛠️ Tech Stack & Infrastructure
+## Featured projects
 
-| Domain | Technologies & Tools |
-| :--- | :--- |
-| **Core Languages** | `C++` • `Java` • `Python` • `R` • `C` • `SQL` |
-| **Data & Storage** | `PostgreSQL` • `Apache Hive` • Distributed Databases • Database Design |
-| **DevOps & Linux** | `Docker` • `Docker Compose` • `Bash / Shell Scripting` • System Hardening |
-| **Web & Backend** | `React` • `TypeScript` • `Vite` • `RESTful APIs` • `Flask` |
-
----
-
-## 📊 System Statistics & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ismailalatar&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Ismail's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailalatar&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+| Project | What it is |
+|---|---|
+| [dineiq-analytics-data-engineering](https://github.com/ismailalatar/dineiq-analytics-data-engineering) | Data engineering and big data foundation for DineIQ Analytics (Python) |
+| [mini-choice-engine](https://github.com/ismailalatar/mini-choice-engine) | General-purpose Java engine for decision-making under constraints |
+| [academic-intelligence-platform](https://github.com/ismailalatar/academic-intelligence-platform) | Core platform for academic intelligence and career guidance (TypeScript) |
 
 ---
 
-## 📫 Connect & Contact
+## Tech stack
 
-- **Email:** [ismailalatar774@gmail.com](mailto:ismailalatar774@gmail.com)
-- **LinkedIn:** [Ismail Alatar](https://www.linkedin.com/in/%D8%A5%D8%B3%D9%85%D8%A7%D8%B9%D9%8A%D9%84-%D8%A7%D9%84%D8%B9%D8%B7%D8%A7%D8%B1-23a0523a7/)
-- **Portfolio:** `In Development`
+| Area | Tools |
+|---|---|
+| Data work | Python, pandas, SQL, R |
+| Databases | PostgreSQL, Apache Hive |
+| Languages | Java, C++, C |
+| DevOps | Docker, Docker Compose, Linux, Bash |
+| Web | React, Vite, TypeScript |
 
 ---
 
-> *"Build clean architectures, optimize for scale, and solve complex system challenges."*
+## GitHub activity
+
+![Ismail's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismailalatar&show_icons=true&theme=dark&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailalatar&layout=compact&theme=dark&hide_border=true)
+
+---
+
+## Contact
+
+Open to small freelance data projects. The best way to reach me is through GitHub, or send me a message on Upwork or Fiverr.
+
+- **LinkedIn:** [Ismail Alatar](https://www.linkedin.com/in/إسماعيل-العطار-23a0523a7/?isSelfProfile=true)
